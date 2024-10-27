@@ -5,10 +5,10 @@
 
     前端框架：uni-app
     支付接口：微信支付
-    数据库：MySQL（或其他数据库，根据项目实际选择）
-    后端技术：Node.js（或其他后端技术，根据项目实际选择）
-    API接口：RESTful API（或其他接口协议）
-    构建工具：HBuilderX（或其他uni-app支持的IDE）
+    数据库：MySQL
+    后端技术：Node.js
+    API接口：RESTful API
+    构建工具：HBuilderX
 
 功能特点
 
